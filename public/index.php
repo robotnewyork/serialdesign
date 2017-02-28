@@ -22,9 +22,9 @@
       <h1>Serial Design</h1>
     </header>
     <nav>
-      <a href="/index.html">Home</a>
+      <a href="/index.php">Home</a>
       <a href="http://e-lusion.newgrounds.com/">Music</a>
-      <a href="/about.html">About</a>
+      <a href="/about.php">About</a>
     </nav>
 
     <main>
