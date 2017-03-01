@@ -17,30 +17,53 @@
   </head>
 
   <body>
-    
     <?php
     include 'header.php';
 
     include 'nav.php';
     ?>
+    
+    
+    
 
     <main>
-      This site:
-      <ul>
-        <li>Requires zero dependencies</li>
-        <li>Will render on any device that supports HTML</li>
-        <li>Loads fast</li>
-        <li>Mobile bandwidth friendly (1 KB)</li>
-        <li>Screen-reader friendly</li>
-        <li>SEO friendly</li>
-        <li>Doesn't require JavaScript</li>
-        <li>Doesn't require Flash, ActiveX, Java or any third party plugin</li>
+        <h1>Reading List</h1>
 
-      </ul>
+        <h2>2017</h2>
+
+        <ol>
+            <li>Moaning of Life</li>
+            <li>G&amp;T WTF</li>
+            <li>Human Action</li>
+            <li>Human Action Study Guide</li>
+        </ol>
+        
+        <h2>2016</h2>
+
+        <ol>
+            <li>Digging Up Mother</li>
+            <li>Infamous Scribblers</li>
+            <li>Fade In</li>
+            <li>Sixty Days and Counting</li>
+            <li>The Years of Rice and Salt</li>
+            <li>Elon Musk</li>
+            <li>Rollback</li>
+            <li>Economics in One Lesson</li>
+            <li>Analog Days</li>
+            <li>Rothbard Reader</li>
+            <li>Becoming Your Own Banker</li>
+            <li>Rip It Up &amp; Start Again</li>
+        </ol>
+
+        
+
+
+
     </main>
 
     <?php
     include 'footer.php';
     ?>
+    
   </body>
 </html>

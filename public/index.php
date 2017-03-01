@@ -17,23 +17,22 @@
   </head>
 
   <body>
+    <?php
+    include 'header.php';
+
+    include 'nav.php';
+    ?>
     
-    <header>
-      <h1>Serial Design</h1>
-    </header>
-    <nav>
-      <a href="/index.php">Home</a>
-      <a href="http://e-lusion.newgrounds.com/">Music</a>
-      <a href="/about.php">About</a>
-    </nav>
+    
+    
 
     <main>
 
     </main>
 
-    <footer>
-      <p>Contact information: <a href="mailto:chad@serialdesign.net">chad@serialdesign.net</a></p>
-      <p>&copy; 2017 Serial Design Inc;</p>
-    </footer>
+    <?php
+    include 'footer.php';
+    ?>
+    
   </body>
 </html>
